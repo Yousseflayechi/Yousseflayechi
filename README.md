@@ -1,7 +1,7 @@
 <h1 align="center">Ｙｏｕｓｓｅｆ　ｌａｙｅｃｈｉ</h1>
 <h3 align="center">Python data analysts student</h3>
 
-- 🇲🇦 **Proud to be moroccan**
+- 🇲🇦 **Proud to be Moroccan**
   
 - 🌱 I’m currently learning **Data science and machine learning**
 
