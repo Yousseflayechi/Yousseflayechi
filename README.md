@@ -33,6 +33,7 @@
 [![youssef's GitHub stats](https://github-readme-stats.vercel.app/api?username=yousseflayechi)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yousseflayechi&show_icons=true&locale=en" alt="yousseflayechi" /></p>
+![youssef's GitHub stats](https://github-readme-stats.vercel.app/api?username=yousseflayechi&hide=contribs,prs)
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yousseflayechi&" alt="yousseflayechi" /></p>
