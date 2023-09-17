@@ -1,4 +1,4 @@
-<h1 align="center">I'm Youssef layechi</h1>
+<h1 align="center">Youssef layechi</h1>
 <h3 align="center">Python data analysts student</h3>
 
 
@@ -14,11 +14,13 @@
 
 - ⚡ Fun fact **80% of a data scientist’s time is spent organizing data**
 
-
+<br>
 <h4 align="center">Profile Counter:</h4>
 <div align="center">
   <img src="https://profile-counter.glitch.me/yousseflayechi/count.svg?"  />
 </div>
+
+<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
