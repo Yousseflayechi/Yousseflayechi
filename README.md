@@ -1,12 +1,13 @@
 <h1 align="center">Ｙｏｕｓｓｅｆ　ｌａｙｅｃｈｉ</h1>
 <h3 align="center">Python data analysts student</h3>
 
-
+- 🇲🇦 **Proud to be moroccan**
+  
 - 🌱 I’m currently learning **Data science and machine learning**
 
 - 👯 I’m looking to collaborate on **anyone who has a dream to be successful**
 
-- 🤝 I’m looking for help with **anyone who has a huge experience **
+- 🤝 I’m looking for help with **anyone who has a huge experience**
 
 - 💬 Ask me about **anything**
 
