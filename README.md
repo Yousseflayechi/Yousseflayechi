@@ -15,7 +15,7 @@
 - ⚡ Fun fact **80% of a data scientist’s time is spent organizing data**
 
 
-<h3 align="left">Profile Counter:</h3>
+<h4 align="center>Profile Counter:</h4>
 <div align="center">
   <img src="https://profile-counter.glitch.me/yousseflayechi/count.svg?"  />
 </div>
