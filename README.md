@@ -1,10 +1,6 @@
 <h1 align="center">I'm Youssef layechi</h1>
 <h3 align="center">Python data analysts student</h3>
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/yousseflayechi/count.svg?"  />
-</div>
-
 
 - 🌱 I’m currently learning **Data science and machine learning**
 
@@ -18,6 +14,11 @@
 
 - ⚡ Fun fact **80% of a data scientist’s time is spent organizing data**
 
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/yousseflayechi/count.svg?"  />
+</div>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/youssef layechi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="youssef layechi" height="30" width="40" /></a>
@@ -30,10 +31,11 @@
 
 <p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-[![youssef's GitHub stats](https://github-readme-stats.vercel.app/api?username=yousseflayechi)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yousseflayechi&show_icons=true&theme=dark)
 
 
-![youssef's GitHub stats](https://github-readme-stats.vercel.app/api?username=yousseflayechi&hide=contribs,prs)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yousseflyaechi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yousseflayechi&" alt="yousseflayechi" /></p>
